@@ -21,7 +21,7 @@ A Python API for a hotel signupbuilt with FastAPI, Uvicorn, SQLAlchemy, and Post
 1. Clone the repo
 
    ```sh
-   git clone <https://github.com/pgoulding/paprika-hotel-backend-python>
+   git clone https://github.com/pgoulding/paprika-hotel-backend-python
    ```
 
 2. Navigate to the project directory
@@ -55,9 +55,9 @@ Open your browser and go to <http://localhost:8000>
 
 ## Features
 
-User authentication and authorization
-CRUD operations for items
-API integration with PostgreSQL
+- User authentication and authorization
+- CRUD operations for items
+- API integration with PostgreSQL
 
 ## Technologies Used
 
